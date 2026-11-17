@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.link-text {
+  color: rgb(102, 102, 102);
+}
+.disabled-text{
+  color: rgb(110, 110, 110);
+}
+.dropdown {
+  color: rgb(102, 102, 102);
+}
+.book-description {
+  overflow: hidden;
+}
